@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>185871854186-930glsq9t7u74oq4fnnq3c1095p17n4r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.185871854186-930glsq9t7u74oq4fnnq3c1095p17n4r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-lqTuDXSD2wf2ZXKywex0xXu1qG7lrys</string>
+	<key>GCM_SENDER_ID</key>
+	<string>185871854186</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.akash.demo</string>
+	<key>PROJECT_ID</key>
+	<string>demoakash-c656d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>demoakash-c656d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:185871854186:ios:783e81db59d70e4df2b813</string>
+	<key>DATABASE_URL</key>
+	<string>https://demoakash-c656d.firebaseio.com</string>
+</dict>
+</plist>
